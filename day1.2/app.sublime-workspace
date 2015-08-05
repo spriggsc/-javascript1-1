@@ -1,0 +1,571 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"b",
+				"br"
+			],
+			[
+				"i",
+				"input"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"d",
+				"desc"
+			],
+			[
+				"ru",
+				"runningTimeInMinutes"
+			],
+			[
+				"g",
+				"getElementByName"
+			],
+			[
+				"runn",
+				"runningTimeInMinutes"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"ge",
+				"genreInputs"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"va",
+				"var"
+			],
+			[
+				"m",
+				"movie"
+			],
+			[
+				"mo",
+				"movie"
+			],
+			[
+				"s",
+				"submit"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"a",
+				"appendChild"
+			],
+			[
+				"ad",
+				"addEventListener"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"movi",
+				"movieObjs"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"he",
+				"helvetica"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"l",
+				"link	Tag"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"setE",
+				"setAttribute"
+			],
+			[
+				"att",
+				"attr"
+			],
+			[
+				"c",
+				"createElement"
+			],
+			[
+				"te",
+				"textContent"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"se",
+				"setTimeout"
+			],
+			[
+				"re",
+				"removeAttribute"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"na",
+				"nav-inner"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"fle",
+				"flex"
+			],
+			[
+				"whi",
+				"white"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"head",
+				"header	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 174,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 390.0
+	},
+	"console":
+	{
+		"height": 62.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/donaldspriggs/Desktop/untitled folder 2",
+		"/Users/donaldspriggs/Desktop/untitled folder 2/css"
+	],
+	"file_history":
+	[
+		"/Users/donaldspriggs/Desktop/waterdrops/waterdrops2.html",
+		"/Users/donaldspriggs/Desktop/drop-of-water-545377_640.jpg",
+		"/Users/donaldspriggs/Desktop/bootcamp2.2.9/index.html",
+		"/Users/donaldspriggs/Desktop/bootcamp2.2.7/index.html",
+		"/Users/donaldspriggs/Desktop/bootstrap-3.3.5-dist/js/bootstrap.min.js",
+		"/Users/donaldspriggs/Desktop/bootcamp2.2.5/index.html",
+		"/Users/donaldspriggs/Desktop/CohortFinal/js/cohortFinal.js",
+		"/Users/donaldspriggs/Desktop/CohortFinal/index.html",
+		"/Users/donaldspriggs/Desktop/CohortFinal/js/javascript",
+		"/Users/donaldspriggs/Desktop/radio and buttons/index.html",
+		"/Users/donaldspriggs/Desktop/cohort1/dom.html",
+		"/Users/donaldspriggs/Desktop/cohort1/arraysOfArrays.js",
+		"/Users/donaldspriggs/Desktop/js movies/index.html",
+		"/Users/donaldspriggs/Desktop/cohort js1/gitignore/js movies",
+		"/Users/donaldspriggs/Desktop/bootcamp2.2.4/pop quiz/grid_system_continued/style.css",
+		"/Users/donaldspriggs/Desktop/bootcamp2.2.4/css/bootstrap.min.css",
+		"/Users/donaldspriggs/Desktop/bootcamp2.2.4/css/style.css",
+		"/Users/donaldspriggs/Desktop/bootcamp2.2.4/index.html",
+		"/Users/donaldspriggs/Desktop/bootcamp2.2.4/css/bootstrap.css",
+		"/Users/donaldspriggs/Desktop/bootcamp2.2.4/style.css",
+		"/Users/donaldspriggs/Desktop/bootcamp2.2 day 3/css/bootstrap.min.css",
+		"/Users/donaldspriggs/Desktop/link practice/css/style.css",
+		"/Users/donaldspriggs/Desktop/bootcamp2.2 day 3/bootstrap-3.3.5-dist/css/bootstrap-theme.css",
+		"/Users/donaldspriggs/Desktop/bootcamp2.2 day 3/css/style.css/bootstrap.min.css/css/bootstrap.min.css",
+		"/Users/donaldspriggs/Desktop/bootcamp2.2 day 3/css/style.css/bootstrap.min.css/css/bootstrap.css.map",
+		"/Users/donaldspriggs/Desktop/bootcamp2.2 day 3/css/style.css/bootstrap.min.css/css/bootstrap.css",
+		"/Users/donaldspriggs/Desktop/bootcamp2.2 day 3/css/style.css/bootstrap.min.css/css/bootstrap-theme.min.css",
+		"/Users/donaldspriggs/Desktop/link practice/index.html",
+		"/Users/donaldspriggs/Desktop/link practice/untitled.html",
+		"/Users/donaldspriggs/Documents/website/combo.html",
+		"/Users/donaldspriggs/Documents/Bootcamp1/project1/css/styledropdown.css",
+		"/Users/donaldspriggs/Documents/Bootcamp1/project1/dropdown.html",
+		"/Users/donaldspriggs/Documents/github/jupyter-notebooks/whatisjupyter/jupyter-sq-text.svg",
+		"/Users/donaldspriggs/Documents/website/waterdrop.html",
+		"/Users/donaldspriggs/Desktop/links2/style.css",
+		"/Users/donaldspriggs/Desktop/practice/wireframe.html",
+		"/Users/donaldspriggs/Documents/Bootcamp1/project1/css/index.html",
+		"/Users/donaldspriggs/Documents/website/secrd.css",
+		"/Users/donaldspriggs/Documents/Bootcamp1/project1/images.html",
+		"/Users/donaldspriggs/Desktop/java 1/styles.scss/styles.css",
+		"/Users/donaldspriggs/Desktop/java 1/style.scss",
+		"/Users/donaldspriggs/Desktop/bootcamp 2 final/css/style.scss",
+		"/Users/donaldspriggs/Desktop/flexbox/css/styles.scss",
+		"/Users/donaldspriggs/Desktop/flexbox/css/styles.css",
+		"/Users/donaldspriggs/Desktop/flexbox/styles.scss/styles.css",
+		"/Users/donaldspriggs/Desktop/flexbox/styles.css/styles.css",
+		"/Users/donaldspriggs/Desktop/bootstrap/index.html",
+		"/Users/donaldspriggs/Desktop/spriggsc/usps/css/_reset.css",
+		"/Users/donaldspriggs/Desktop/spriggsc/usps/css/_queries.scss",
+		"/Users/donaldspriggs/Desktop/spriggsc/usps/css/_layout.scss",
+		"/Users/donaldspriggs/Desktop/spriggsc/usps/css/styles.css",
+		"/Users/donaldspriggs/Desktop/spriggsc/usps/css/styles.scss",
+		"/Users/donaldspriggs/Desktop/spriggsc/usps/css/_style.scss",
+		"/Users/donaldspriggs/Desktop/spriggsc/usps/css/_layout.css",
+		"/Users/donaldspriggs/Desktop/spriggsc/usps/css/style.scss",
+		"/Users/donaldspriggs/Desktop/spriggsc/usps/css/_reset.scss",
+		"/Users/donaldspriggs/Desktop/spriggsc/usps/css/_queries",
+		"/Users/donaldspriggs/Desktop/spriggsc/usps/queries.html",
+		"/Users/donaldspriggs/Desktop/spriggsc/usps/css/queries.scss",
+		"/Users/donaldspriggs/Desktop/spriggsc/usps/css/queries.scss.css",
+		"/Users/donaldspriggs/Desktop/spriggsc/usps/index.html",
+		"/Users/donaldspriggs/Desktop/spriggsc/test/styles.scss",
+		"/Users/donaldspriggs/Desktop/spriggsc/test/index.html",
+		"/Users/donaldspriggs/Desktop/spriggsc.github.io/test/index.html",
+		"/Users/donaldspriggs/Desktop/spriggsc.github.io/test/css/styles.css",
+		"/Users/donaldspriggs/Downloads/avatar.png",
+		"/Users/donaldspriggs/Downloads/logo.png"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"30px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								174,
+								174
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.js",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
